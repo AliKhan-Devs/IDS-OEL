@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Bookstore Management System',
-  description: 'Admin dashboard for managing bookstore operations',
+  description: 'Admin dashboard for managing bookstore operations (required in IDS OEL))',
 };
 
 export default function RootLayout({ children }) {
