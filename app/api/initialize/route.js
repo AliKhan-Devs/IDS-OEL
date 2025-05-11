@@ -1,3 +1,6 @@
+// When this route is fetched thorugh a get request /api/initialize so all the initial setup of the database will be done
+
+
 import { executeQuery } from '@/lib/db';
 import { NextResponse } from 'next/server';
 
